@@ -130,3 +130,6 @@ dmypy.json
 
 # virtual environment
 venv
+
+# VS Code files/folders
+.vscode
